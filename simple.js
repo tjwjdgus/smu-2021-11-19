@@ -9,7 +9,7 @@ var app = http.createServer(function(request,response){
         <li><a href="mysql.html">mysql</a></li>
     </ul>
     <h2>Welcome</h2>
-    Hello WEB!!!!!!!    
+    Hello Nodejs  
     `);
 });
 app.listen(8080);
